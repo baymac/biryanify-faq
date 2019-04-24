@@ -1,2 +1,2 @@
 # biryanify-faq
-Designing biryanify FAQ page on shopify
+A simple implementation of a FAQs section on our website.
